@@ -44,4 +44,7 @@ let Quiz3 = {id: 3, title: "quiz 3", picture:"lily.jpg",
 questions: [q13, q14, q15, q16, q17, q18]};
 let quizzes = [Quiz1, Quiz2, Quiz3];
 
+let score = [];
+
+module.exports.score = scores;
 module.exports.quizzes = quizzes;
