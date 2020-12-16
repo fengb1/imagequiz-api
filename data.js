@@ -46,5 +46,5 @@ let quizzes = [Quiz1, Quiz2, Quiz3];
 
 let score = [];
 
-module.exports.score = scores;
+module.exports.score = score;
 module.exports.quizzes = quizzes;
